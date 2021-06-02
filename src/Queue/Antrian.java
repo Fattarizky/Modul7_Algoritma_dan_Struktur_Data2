@@ -54,5 +54,6 @@ public class Antrian {
         for (int i=0; i<jumlah; i++)
             System.out.print(antrian[i]+" ");
         System.out.println("");
+        
     }
 }

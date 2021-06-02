@@ -18,5 +18,4 @@ public class AntrianApp {
         newQueue.show();
         System.out.println("data paling depan = "+newQueue.peek());
     }
-    
 }
